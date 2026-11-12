@@ -4,7 +4,7 @@
 
 <a href="https://www.landed.jobs/?utm_source=github&utm_medium=referral&utm_campaign=github-ai-system-design-interview&utm_content=repo-home"><picture><source media="(prefers-color-scheme: dark)" srcset="https://static.b100x.ai/github-repos/images/brand/landed-wordmark-dark.png"><img src="https://static.b100x.ai/email/landed-wordmark.png" alt="Landed" width="200"></picture></a>
 
-<img src="assets/banner.svg" alt="AI System Design Interview" width="100%">
+<img src="https://static.b100x.ai/github-repos/images/ai-system-design-interview/banner.svg" alt="AI System Design Interview" width="100%">
 
 [![Stars](https://img.shields.io/github/stars/landedjobs/ai-system-design-interview?style=social)](https://github.com/landedjobs/ai-system-design-interview)
 [![License: MIT](https://img.shields.io/badge/License-MIT-6C2BD9.svg)](LICENSE)
